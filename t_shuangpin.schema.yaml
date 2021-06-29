@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 schema:
-  schema_id: t-shuangpin
+  schema_id: t_shuangpin
   name: 调形双拼
   version: "0.1"
   author:
@@ -47,7 +47,7 @@ speller:
   delimiter: " '"
 
 translator:
-  dictionary: t-shuangpin
+  dictionary: t_shuangpin
 
 reverse_lookup:
   dictionary: stroke

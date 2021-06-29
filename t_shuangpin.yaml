@@ -1,4 +1,3 @@
-
 # Rime dictionary
 # encoding: utf-8
 # 调形双拼
@@ -8,7 +7,7 @@
 # https://github.com/rime/rime-pinyin-simp
 #
 ---
-name: t-shuangpin
+name: t_shuangpin
 version: "0.1"
 sort: by_weight
 ...
