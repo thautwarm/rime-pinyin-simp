@@ -48,6 +48,7 @@ speller:
 
 translator:
   dictionary: t_shuangpin
+  enable_completion: true
 
 reverse_lookup:
   dictionary: stroke
