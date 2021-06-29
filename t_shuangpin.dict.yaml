@@ -11,7 +11,7 @@ name: t_shuangpin
 version: "0.1"
 sort: original
 import_tables:
-  - luna_pinyin_comprehensive
+  - t_shuangpin_vocab
 ...
 走	zzz	48130
 邹	zzz	1334
