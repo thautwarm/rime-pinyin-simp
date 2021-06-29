@@ -40,7 +40,6 @@ engine:
   translators:
     - punct_translator
     - script_translator
-    - reverse_lookup_translator
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
@@ -54,15 +53,6 @@ translator:
   encode_commit_history: false
   enable_user_dict: false
 
-
-reverse_lookup:
-  dictionary: stroke
-  enable_completion: true
-  prefix: "`"
-  suffix: "'"
-  tips: 〔笔画〕
-  preedit_format:
-    - xlit/hspnz/一丨丿丶乙/
 
 punctuator:
   import_preset: symbols
