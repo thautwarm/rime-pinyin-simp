@@ -42,6 +42,10 @@ engine:
     - script_translator
     - reverse_lookup_translator
 
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+
 translator:
   dictionary: t-shuangpin
 
