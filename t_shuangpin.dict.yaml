@@ -11,7 +11,7 @@ name: t_shuangpin
 version: "0.1"
 sort: by_weight
 import_tables:
-  - t_shuangpin_patch
+  - luna_pinyin_comprehensive
 ...
 揍	zzfr	786
 奏	zzfd	643
