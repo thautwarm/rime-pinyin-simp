@@ -4,7 +4,7 @@
 schema:
   schema_id: t-shuangpin
   name: 调形双拼
-  version: '0.1'
+  version: "0.1"
   author:
     - thautwarm
   description: |
