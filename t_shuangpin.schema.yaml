@@ -39,7 +39,7 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
-    - table_translator
+    - script_translator
     - reverse_lookup_translator
 
 speller:
