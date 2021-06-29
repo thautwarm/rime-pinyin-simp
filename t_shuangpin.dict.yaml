@@ -9,7 +9,7 @@
 ---
 name: t_shuangpin
 version: "0.1"
-sort: by_weight
+sort: original
 import_tables:
   - luna_pinyin_comprehensive
 ...
