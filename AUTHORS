@@ -1,6 +1,8 @@
+Taine Zhao <twshere@outlook.com> : (Apache License version 2.0)
+  t-shuangpin.schema.yaml
 
 Gong Chen <chen.sst@gmail.com> : (Apache License version 2.0)
-  pinyin_simp.schema.yaml
+  t-shuangpin.schema.yaml
 
 Derived from Android Pinyin IME : (Apache License version 2.0)
-  pinyin_simp.dict.yaml
+  t-shuangpin.schema.yaml
